@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/alexcampbell/projects/finagle_test/code/Server.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/alexcampbell/projects/finagle_test/code/Server.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/alexcampbell/projects/finagle_test/code/Server.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/alexcampbell/projects/finagle_test/code/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2d7292af, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/alt-rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/classes:/Users/alexcampbell/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/alexcampbell/projects/finagle_test/code/target/scala-2.10/classes:/Users/alexcampbell/.ivy2/cache/com.twitter/finagle-httpx_2.10/jars/finagle-httpx_2.10-6.28.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/finagle-core_2.10/jars/finagle-core_2.10-6.28.0.jar:/Users/alexcampbell/.ivy2/cache/io.netty/netty/bundles/netty-3.10.1.Final.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-app_2.10/jars/util-app_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-core_2.10/jars/util-core_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-function_2.10/jars/util-function_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-registry_2.10/jars/util-registry_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-collection_2.10/jars/util-collection_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-2.0.1.jar:/Users/alexcampbell/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar:/Users/alexcampbell/.ivy2/cache/com.google.guava/guava/bundles/guava-16.0.1.jar:/Users/alexcampbell/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-hashing_2.10/jars/util-hashing_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-stats_2.10/jars/util-stats_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-jvm_2.10/jars/util-jvm_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-logging_2.10/jars/util-logging_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/util-codec_2.10/jars/util-codec_2.10-6.27.0.jar:/Users/alexcampbell/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.9.jar:/Users/alexcampbell/.ivy2/cache/com.twitter/jsr166e/jars/jsr166e-1.0.0.jar:/Users/alexcampbell/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.6.jar[0m
+[0m[[31merror[0m] [0m/Users/alexcampbell/projects/finagle_test/code/Server.scala:9: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : com.twitter.finagle.httpx.Request[0m
+[0m[[31merror[0m] [0m required: com.twitter.finagle.httpx.Version[0m
+[0m[[31merror[0m] [0m                httpx.Response(req, httpx.Status.Ok)[0m
+[0m[[31merror[0m] [0m                               ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
